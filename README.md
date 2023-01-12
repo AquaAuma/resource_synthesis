@@ -4,3 +4,7 @@ Synthesis related to the [Minerva project Climate Change and Great Power Competi
 
 ## Data sources
 * The Inter-Sectoral Impact Model Intercomparison Project https://www.isimip.org
+
+### Information about models
+* [available models fisheries](https://protocol.isimip.org/#ISIMIP3b/marine-fishery_global)
+* [access to protocols](https://www.isimip.org/protocol/3/)
